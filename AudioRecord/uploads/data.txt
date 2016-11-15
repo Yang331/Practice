@@ -1,0 +1,8 @@
+http://stylishc.tistory.com/120  미들 웨어 
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/  스타트 
+http://bcho.tistory.com/887 조대협-1
+http://bcho.tistory.com/902 조대협-클러스터링
+http://expressjs.com/ko/guide/routing.html  라우 팅 
+http://expressjs.com/ko/guide/using-middleware.html   미들웨어 
+https://www.google.co.kr/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=html+video+autoplay  비디오 플레이 
+
